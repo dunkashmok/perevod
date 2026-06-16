@@ -1,3 +1,9 @@
+///// РАБОТАЕТ НА ПИТОНЕ ВЕРСИИ 3.9-3.11
+///// виртуалку делал такую voice_env\Scripts\activate    pip install coqui-tts
+///// pip install torch torchaudio
+///// дальше писать не буду, т.к. ошибки были у меня
+
+
 import torch
 from TTS.api import TTS
 import os
